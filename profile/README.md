@@ -1,4 +1,4 @@
-# Welcome to the @dAlkhemist Lab I.
+# Welcome to the [Alkhemist](https://github.com/dAlkhemist) Lab I.
 This lab is dedicated to archiving and researching 1Games.io, geometrylite.io and any related parties.
 
 <!--
